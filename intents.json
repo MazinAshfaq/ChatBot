@@ -12,7 +12,7 @@
       ],
       "responses": [
         "Hello, thanks for reaching out",
-        "Hi there, whats on your mind",
+        "Hi there, whats on your mind"
       ]
     },
     {
@@ -27,7 +27,12 @@
     {
       "tag": "help",
       "patterns": [
-        "Where else can I get help?", 
+        "Where else can I get help?",
+        "How can I find a mental health professional for myself or my child?",
+        "How can I find a mental health professional right for my child or myself?",
+        "How can I get help paying for my medication?",
+        "How can I tell if health information is good or bad?",
+        "How can I reframe the situation and find more balanced perspectives?"
       ],
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
@@ -40,7 +45,6 @@
         "What is antisocial personality disorder?",
         "What is obsessive-compulsive personality disorder?",
         "What is binge-eating disorder?"
-
       ],
       "responses": [
         "Dysthymia, now called persistent depressive disorder or PDD, is a mood disorder. It is related depression (major depressive disorder). The difference between the two is in the number of symptoms and the amount of time that they last. Someone diagnosed with PDD would experience two to four of the symptoms below for at least two years with no periods of wellness during that time, while someone diagnosed with major depressive disorder would experience five or more of the symptoms below for at least two weeks. Symptoms of PDD include: There is a myth that PDD is not as severe an illness as major depressive disorder, but research shows that the disability of the illness, like the ability to work productively and enjoy hobbies, may be as severe in PDD as it is in major depressive disorder. As PDD involves a smaller number of symptoms that last for a very long time, many people begin to assume PDD is just part of their personality rather than an illness that can be effectively treated. So you should most certainly talk to a doctor or mental health professional if you think you might have PDD.",
@@ -65,7 +69,6 @@
         "What's the difference between antidepressants?",
         "What's the difference between mental health and mental illness?",
         "What's the difference between substance use and addiction?"
-
       ],
       "responses": [
         "Anxiety is a problem when it becomes overwhelming or unmanageable and it comes up unexpectedly. Anxiety disorders are mental illnesses that have a big impact your life. People may avoid going about their daily lives in order to avoid anxiety.",
@@ -77,8 +80,7 @@
         "The focus may be on problem solving or on learning specific techniques for coping with or avoiding problem areas. Counseling is also usually more short-term than therapy. Psychotherapy is more long-term than counseling and focuses on a broader range of issues.",
         "CBT is structured, short-term, goal-oriented and focused on the present. It starts with education around the particular mental illness or challenge and how the illness or challenge affects you. Dialectical behaviour therapy or DBT is based on CBT, with greater focus on emotional and social aspects. DBT was developed to help people cope with extreme or unstable emotions and harmful behaviours.",
         "Antidepressents are put in two catagories: SSRI's & SNRI's. The main difference between SSRIs and SNRIs is that SSRIs prevent the reuptake of serotonin and SNRIs prevent the reuptake of serotonin and norepinephrine. Serotonin and norepinephrine are substances that the brain uses to send messages from one nerve cell to another. They are also called neurotransmitters.",
-        "According to the Centers for Disease Control (CDC), mental illness refers to “conditions that affect a person’s thinking, feeling, mood, or behavior.” These can include but aren’t limited to depression, anxiety, bipolar disorder, or schizophrenia. Mental health reflects “our emotional, psychological, and social well-being.” Affecting “how we think, feel, and act,” mental health has a strong impact on the way we interact with others, handle problems, and make decisions.",
-
+        "According to the Centers for Disease Control (CDC), mental illness refers to “conditions that affect a person’s thinking, feeling, mood, or behavior.” These can include but aren’t limited to depression, anxiety, bipolar disorder, or schizophrenia. Mental health reflects “our emotional, psychological, and social well-being.” Affecting “how we think, feel, and act,” mental health has a strong impact on the way we interact with others, handle problems, and make decisions."
       ]
     }
   ]
