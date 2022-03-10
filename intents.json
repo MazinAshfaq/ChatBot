@@ -27,7 +27,7 @@
     {
       "tag": "help",
       "patterns": [
-        "Where else can I get help?", 
+        "Where else can I get help?"
       ],
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
