@@ -11,73 +11,74 @@
         "Good day"
       ],
       "responses": [
-        "Hey :-)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hello, thanks for reaching out",
+        "Hi there, whats on your mind",
       ]
     },
     {
       "tag": "goodbye",
       "patterns": ["Bye", "See you later", "Goodbye"],
       "responses": [
-        "See you later, thanks for visiting",
-        "Have a nice day",
-        "Bye! Come back again soon."
+        "Thank you for reaching out. Please come back if you arent feeling well",
+        "Goodbye, take care of yourself",
+        "Have a great day! Reach out again if you have anymore questions."
       ]
     },
     {
-      "tag": "thanks",
-      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "tag": "help",
+      "patterns": [
+        "Where else can I get help?", 
+      ],
       "responses": ["Happy to help!", "Any time!", "My pleasure"]
     },
     {
-      "tag": "items",
+      "tag": "disorders",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "What is dysthymia or persistent depressive disorder?",
+        "What is cyclothymic disorder?",
+        "What is schizoid personality disorder?",
+        "What is antisocial personality disorder?",
+        "What is obsessive-compulsive personality disorder?",
+        "What is binge-eating disorder?"
+
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "Dysthymia, now called persistent depressive disorder or PDD, is a mood disorder. It is related depression (major depressive disorder). The difference between the two is in the number of symptoms and the amount of time that they last. Someone diagnosed with PDD would experience two to four of the symptoms below for at least two years with no periods of wellness during that time, while someone diagnosed with major depressive disorder would experience five or more of the symptoms below for at least two weeks. Symptoms of PDD include: There is a myth that PDD is not as severe an illness as major depressive disorder, but research shows that the disability of the illness, like the ability to work productively and enjoy hobbies, may be as severe in PDD as it is in major depressive disorder. As PDD involves a smaller number of symptoms that last for a very long time, many people begin to assume PDD is just part of their personality rather than an illness that can be effectively treated. So you should most certainly talk to a doctor or mental health professional if you think you might have PDD.",
+        "Cyclothymic disorder is a subtype of bipolar disorder. Much like bipolar disorder, the symptoms of cyclothymia include three or more symptoms of hypomania, and five or more symptoms of depression. Like bipolar disorder, people may experience wellness between episodes of hypomania and depression. Symptoms of hypomania include: Symptoms of depression include: Talk to a doctor or mental health professional if you think you might have cyclothymic disorder.",
+        "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Schizoid personality disorder or SPD affects social interactions and relationships. People with SPD may have a hard time relating to others and showing emotions. They may avoid close relationships and prefer to spend their time alone, seeming distant even to close family members. Many people don't respond to strong emotions like anger, even when others try to provoke them. On the outside, people with SPD may seem cold or aloof, showing little emotion. While they have a similar name, schizoid personality disorder isn't the same as schizophrenia. Schizoid personality disorder is believed to be relatively uncommon. While some people with SPD may see it as part of who they are, other people may feel a lot of distress, especially around social interactions. Some medications may help people manage symptoms and psychotherapy may help people build new skills and improve relationships. To find help for schizoid personality disorder, talk to your family doctor, find a psychologist through the BC Psychological Association, or call 811 to talk to a HealthLink BC navigator.",
+        "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Antisocial personality disorder or ASPD affects the way people think about the rights of others. Someone with ASPD may disregard laws or expectations, lack remorse when they hurt others or break the law, make reckless decisions, and believe they are superior to others. People may see someone with ASPD as overly dramatic, impulsive, manipulative, and deceitful. Some people may appear charming, at least on the surface. Like all mental illnesses, antisocial personality disorder is a spectrum. Some people may only occasionally act out, while others may break the law often and spend a lot of time in the criminal justice system. ASPD is only diagnosed in adults, but people with ASPD start to have problems with conduct or antisocial behaviours at a young age. They may be diagnosed with conduct disorder during childhood. Treatment for antisocial personality disorder, usually psychotherapy, can help reduce the harms of ASPD and help people build empathy towards others. ASPD is treatable and it may improve as a person approaches middle age. All of us have hurt someone else or acted without thinking of others' needed. It's important to remember that antisocial personality disorder is an enduring pattern around lack of empathy and lack of remorse. Only a doctor or mental health professional can diagnose illnesses like ASPD. To find help for antisocial personality disorder, talk to your family doctor, find a psychologist through the BC Psychological Association, or call 811 to talk to a HealthLink BC navigator.",
+        "A personality disorder is a pattern of thoughts, feelings, and behaviours that last for a long time and causes some sort of problem or distress. Obsessive-compulsive personality disorder or OCPD is about control. People with OCPD have very inflexible thinking and expect everything to be ordered, perfect, and done their correct way. This happens at the expense of other important things in life, including relationships with others. Work can take priority over every other part of life, too, and people with OCPD may seem excessively dedicated, but may be unable to complete tasks due to perfectionism. They may struggle to delegate and may distrust other people's contributions. People with OCPD may not tolerate uncertainty and may have a very rigid understanding of the worldâ€”something is either right or wrong. They may also have a hard time spending money on themselves or others, and they may experience hoarding, the inability to throw away items from their homes. The conflict between the desire for neatness or order and the inability to throw things out may cause a lot of anxiety. While obsessive-compulsive personality disorder and obsessive-compulsive disorder (OCD) have a similar name, they are not the same illness. People with obsessive-compulsive disorder usually understand that their obsessions and compulsions are illogical and usually experience a lot of distress, even though they may not be able to stop obsessions or compulsions. Compulsions are an attempt to reduce anxiety, not to find pleasure. People with obsessive-compulsive personality disorder may view their thoughts as part of who they are, see their thoughts as logical, and may find pleasure or benefit in completing compulsive tasks. They may experience a lot of distress when they can't achieve control or the perfectionism they want. Obsessive-compulsive personality disorder is one of the most common personality disorders. Treatment may include some combination of psychotherapy, medication, and self-help strategies. To find help for OCPD, talk to your family doctor, find a psychologist through the BC Psychological Association, or call 811 to talk to a HealthLink BC navigator.",
+        "Binge-eating disorder or BED is a type of eating disorder. It involves episodes of eating a lot of food in a short amount of time, past the point of feeling full, and feelings of being out of control or unable to stop eating. People who experience binge-eating disorder may binge even when they don't feel hungry. They may feel temporarily comforted by food, and then feel depressed, upset, guilty, or ashamed of their eating. As a result, many people try to keep binge-eating symptoms a secret. You can't tell if someone experiences binge-eating disorder just from the way they look or the way they eat around others. While a lot of people have the experience of eating too much a few times and feeling uncomfortable after, people who experience binge-eating disorder experience many binges for a long period of time. Binge-eating disorder is treatable. Talk to your doctor or a mental health professional if you think you might have binge-eating disorder."
       ]
     },
     {
-      "tag": "payments",
+      "tag": "difference",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "What's the difference between anxiety and an anxiety disorder?",
+        "What's the difference between anxiety and stress?",
+        "What's the difference between sadness and depression?",
+        "What's the difference between dissociative identity disorder (multiple personality disorder) and schizophrenia?",
+        "What's the difference between psychosis and schizophrenia?",
+        "What's the difference between a psychiatrist and a registered psychologist?",
+        "What's the difference between psychotherapy and counselling?",
+        "What's the difference between CBT and DBT?",
+        "What's the difference between antidepressants?",
+        "What's the difference between mental health and mental illness?",
+        "What's the difference between substance use and addiction?"
+
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
-      ]
-    },
-    {
-      "tag": "delivery",
-      "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
-      ],
-      "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
-      ]
-    },
-    {
-      "tag": "funny",
-      "patterns": [
-        "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?"
-      ],
-      "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "Anxiety is a problem when it becomes overwhelming or unmanageable and it comes up unexpectedly. Anxiety disorders are mental illnesses that have a big impact your life. People may avoid going about their daily lives in order to avoid anxiety.",
+        "Anxiety is a problem when it becomes overwhelming or unmanageable and it comes up unexpectedly. People under stress experience mental and physical symptoms, such as irritability, anger, fatigue, muscle pain, digestive troubles, and difficulty sleeping.",
+        "Sadness is a normal reaction to a loss, disappointment, problems, or other difficult situations. Feeling sad from time to time is just another part of being human. In these cases, feelings of sadness go away quickly and you can go about your daily life. Depression is a mental illness that affects your mood, the way you understand yourself, and the way you understand and relate to things around you. It can also go by different names, such as clinical depression, major depressive disorder, or major depression.",
+        "Schizophrenia is a condition marked by disturbances in thoughts, feelings, and behaviors. Dissociative disorders are characterized by problems with the continuity of memories, thoughts, identity, and actions that result in a disconnection from reality.",
+        "Psychosis is a condition in which someone has lost touch with reality. Its two main symptoms are hallucinations and delusions. Psychosis can have several causes, such as mental health disorders, medical conditions, or substance use. Schizophrenia is a mental health disorder that includes periods of psychosis.",
+        "Psychologists are trained to administer psychological tests, but psychiatrists aren’t. In some states, psychologists who have advanced specialized training in psychopharmacology are allowed to write prescriptions for a selected number of psychiatric medications.",
+        "The focus may be on problem solving or on learning specific techniques for coping with or avoiding problem areas. Counseling is also usually more short-term than therapy. Psychotherapy is more long-term than counseling and focuses on a broader range of issues.",
+        "CBT is structured, short-term, goal-oriented and focused on the present. It starts with education around the particular mental illness or challenge and how the illness or challenge affects you. Dialectical behaviour therapy or DBT is based on CBT, with greater focus on emotional and social aspects. DBT was developed to help people cope with extreme or unstable emotions and harmful behaviours.",
+        "Antidepressents are put in two catagories: SSRI's & SNRI's. The main difference between SSRIs and SNRIs is that SSRIs prevent the reuptake of serotonin and SNRIs prevent the reuptake of serotonin and norepinephrine. Serotonin and norepinephrine are substances that the brain uses to send messages from one nerve cell to another. They are also called neurotransmitters.",
+        "According to the Centers for Disease Control (CDC), mental illness refers to “conditions that affect a person’s thinking, feeling, mood, or behavior.” These can include but aren’t limited to depression, anxiety, bipolar disorder, or schizophrenia. Mental health reflects “our emotional, psychological, and social well-being.” Affecting “how we think, feel, and act,” mental health has a strong impact on the way we interact with others, handle problems, and make decisions.",
+
       ]
     }
   ]
