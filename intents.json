@@ -12,7 +12,7 @@
       ],
       "responses": [
         "Hello, thanks for reaching out",
-        "Hi there, whats on your mind",
+        "Hi there, whats on your mind"
       ]
     },
     {
@@ -64,7 +64,7 @@
         "What's the difference between CBT and DBT?",
         "What's the difference between antidepressants?",
         "What's the difference between mental health and mental illness?",
-        "What's the difference between substance use and addiction?"
+        "What's the difference between substance abuse and addiction?"
 
       ],
       "responses": [
@@ -78,6 +78,7 @@
         "CBT is structured, short-term, goal-oriented and focused on the present. It starts with education around the particular mental illness or challenge and how the illness or challenge affects you. Dialectical behaviour therapy or DBT is based on CBT, with greater focus on emotional and social aspects. DBT was developed to help people cope with extreme or unstable emotions and harmful behaviours.",
         "Antidepressents are put in two catagories: SSRI's & SNRI's. The main difference between SSRIs and SNRIs is that SSRIs prevent the reuptake of serotonin and SNRIs prevent the reuptake of serotonin and norepinephrine. Serotonin and norepinephrine are substances that the brain uses to send messages from one nerve cell to another. They are also called neurotransmitters.",
         "According to the Centers for Disease Control (CDC), mental illness refers to “conditions that affect a person’s thinking, feeling, mood, or behavior.” These can include but aren’t limited to depression, anxiety, bipolar disorder, or schizophrenia. Mental health reflects “our emotional, psychological, and social well-being.” Affecting “how we think, feel, and act,” mental health has a strong impact on the way we interact with others, handle problems, and make decisions.",
+        "Substance abuse is not the same thing as addiction, though it is still a cause for concern. Both overusing a substance and using a substance in a manner other than its intended use are signs of substance abuse. For example, if you are prescribed a painkiller but you take it more often, or in higher doses, than your prescription dictates, this is a sign of substance abuse. According to the National Institute on Drug Abuse, addiction differs from substance abuse in that it is a chronic disease that is incredibly difficult to control. Abuse of certain substances, such as alcohol or prescription drugs, can cause chemical changes in the brain that lead to addiction. These changes compel someone to keep using the substance that they are addicted to, no matter what the negative effects may be."
 
       ]
     }
